@@ -1,4 +1,6 @@
 # ICJ Bootstrap Template
+By Milly Orellana
+Started on 10/15/19
 
 This template goes along with the [Bootstrap lessons](https://github.com/utdata/icj-class#bootstrap) for Intro to Coding for Journalists.
 
